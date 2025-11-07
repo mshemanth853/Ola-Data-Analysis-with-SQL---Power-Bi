@@ -30,7 +30,7 @@ The dataset was cleaned, structured, and processed using **SQL**, followed by cr
 Includes total bookings, total earnings, and booking status analysis (successful vs cancelled rides).  
 Shows ride volume trends over time.  
 
-![Overview Page](https://github.com/mshemanth853/OLA-Rides-Data-Analysis-Project/blob/main/Screenshot%20(90).png?raw=true)  
+![Overview Page](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/Screenshot%20(90).png?raw=true)  
 
 ---
 
@@ -38,7 +38,7 @@ Shows ride volume trends over time.
 Compares total and successful booking values by each vehicle category.  
 Displays average and total distance travelled per vehicle type.  
 
-![Vehicle Type Page](https://github.com/mshemanth853/OLA-Rides-Data-Analysis-Project/blob/main/Screenshot%20(91).png?raw=true)  
+![Vehicle Type Page](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/Screenshot%20(91).png?raw=true)  
 
 ---
 
@@ -46,7 +46,7 @@ Displays average and total distance travelled per vehicle type.
 Visualizes revenue generation by payment method and daily distance covered.  
 Highlights top customers by booking value.  
 
-![Revenue Page](https://github.com/mshemanth853/OLA-Rides-Data-Analysis-Project/blob/main/Screenshot%20(92).png?raw=true)  
+![Revenue Page](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/Screenshot%20(92).png?raw=true)  
 
 ---
 
@@ -54,7 +54,7 @@ Highlights top customers by booking value.
 Shows detailed cancellation insights—by customers and drivers, along with reasons.  
 Helps identify behavioral and operational inefficiencies.  
 
-![Cancellation Page](https://github.com/mshemanth853/OLA-Rides-Data-Analysis-Project/blob/main/Screenshot%20(93).png?raw=true)  
+![Cancellation Page](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/Screenshot%20(93).png?raw=true)  
 
 ---
 
@@ -62,7 +62,7 @@ Helps identify behavioral and operational inefficiencies.
 Compares **Driver** and **Customer Ratings** across all vehicle types.  
 Helps analyze satisfaction and performance consistency.  
 
-![Ratings Page](https://github.com/mshemanth853/OLA-Rides-Data-Analysis-Project/blob/main/Screenshot%20(94).png?raw=true)  
+![Ratings Page](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/Screenshot%20(94).png?raw=true)  
 
 ---
 
