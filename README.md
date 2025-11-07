@@ -6,7 +6,7 @@ The dataset was cleaned, structured, and processed using **SQL**, followed by cr
 
 ---
 
-## 📊 About the Dataset  
+##  About the Dataset  
 **Data Source:** OLA Ride Dataset (cleaned and prepared using SQL)  
 **Rows:** 100,000  **Columns:** 20  
 
@@ -79,7 +79,7 @@ Helps analyze satisfaction and performance consistency.
 ---
 
 ##  Power BI Dashboard (PDF Version)  
-👉 [**Download Full Dashboard (PDF)**](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/OLA%20-%20Power%20BI%20Dashboard.pdf)  
+ [**Download Full Dashboard (PDF)**](https://github.com/mshemanth853/Ola-Data-Analysis-with-SQL---Power-Bi/blob/main/OLA%20-%20Power%20BI%20Dashboard.pdf)  
 
 ---
 
