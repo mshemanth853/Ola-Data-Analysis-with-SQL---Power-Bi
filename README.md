@@ -6,9 +6,11 @@ The dataset was cleaned, structured, and processed using **SQL**, followed by cr
 
 ---
 
-##  About the Dataset  
+## 📊 About the Dataset  
 **Data Source:** OLA Ride Dataset (cleaned and prepared using SQL)  
 **Rows:** 100,000  **Columns:** 20  
+
+**Link to Dataset:** [OLA Ride Data - Topvarsity](https://topvarsity.in/ola-data-analyst-project/)  
 
 **Columns Include:**  
 `Date`, `Time`, `Booking_ID`, `Booking_Status`, `Customer_ID`, `Vehicle_Type`,  
